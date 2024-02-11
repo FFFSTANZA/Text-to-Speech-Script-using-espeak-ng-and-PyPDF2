@@ -1,3 +1,5 @@
+ ****Text-to-Speech Script using espeak-ng and PyPDF2****
+
 The purpose of this script is to convert text from a specified range of pages in a PDF file to speech using the espeak-ng text-to-speech engine. The script is designed to offer a simple and direct approach to text-to-speech functionality without relying on external Python libraries like gTTS or pyttsx3.
 
 **Key Features:
